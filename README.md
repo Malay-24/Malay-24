@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi Malay 👋
 
 <!--
-**Malay-24/Malay-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Web developer skilled in MERN stack , I love to creat web platform that propple the organization growth and to learn new technology and implement it in my projecs. Some technologies that i enjoy working with includes React js, Node js , javascript and typescript✨.
 
 Here are some ideas to get you started:
 
