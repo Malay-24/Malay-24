@@ -1,4 +1,4 @@
-### Hi Malay 👋
+### Hi Malay! 👋
 
 <!--
 I'm a passionate Full Stack Web developer skilled in MERN stack , I love to creat web platform that propple the organization growth and to learn new technology and implement it in my projecs. Some technologies that i enjoy working with includes React js, Node js , javascript and typescript✨.
